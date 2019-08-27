@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "406643756638",
+    "firebase_url": "https://pollen-forecast-melbourne.firebaseio.com",
+    "project_id": "pollen-forecast-melbourne",
+    "storage_bucket": "pollen-forecast-melbourne.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406643756638:android:72ef69db8a51e989",
+        "android_client_info": {
+          "package_name": "com.plenum.pollen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406643756638-qe9ra5kvngih5u904bhe1006hh5tinn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD012joqKTAuWo0lpZPxs2aJssXeMdAcYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406643756638-qe9ra5kvngih5u904bhe1006hh5tinn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
